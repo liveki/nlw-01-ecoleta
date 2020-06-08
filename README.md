@@ -70,4 +70,4 @@ yarn start
 ### Cadastrando um estabelecimento
 Segue uma prévia do cadastro de um estabelecimento com *upload* de imagem e integração com mapas.
 
-![](https://makeagif.com/gif/point-register-4dXevP?ref=GQSZht)
+![Point Register](https://i.makeagif.com/media/6-07-2020/4dXevP.gif)

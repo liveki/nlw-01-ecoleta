@@ -70,4 +70,4 @@ yarn start
 ### Cadastrando um estabelecimento
 Segue uma prévia do cadastro de um estabelecimento com *upload* de imagem e integração com mapas.
 
-![](https://github.com/liveki/imgs/blob/master/Point_Register.gif)
+![](https://makeagif.com/gif/point-register-4dXevP?ref=GQSZht)
